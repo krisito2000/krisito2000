@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/krisitoxd) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://bg-bg.facebook.com/people/Kristian-Sirakov/pfbid02XiZ8Fgc4SEVKier3ke9beXNq1EsvG3AQEUUe1sit1ahY5dGB32N5S4KhX2tftHC8l/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristian-sirakov-219415298/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@krisito7037) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ksirakov20@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ksirakov20@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@krisito7037) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://bg-bg.facebook.com/people/Kristian-Sirakov/pfbid02XiZ8Fgc4SEVKier3ke9beXNq1EsvG3AQEUUe1sit1ahY5dGB32N5S4KhX2tftHC8l/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristian-sirakov-219415298/) 
 
 
 ## 🔨 Main Projects:
